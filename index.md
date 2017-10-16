@@ -7,4 +7,4 @@ image: null
 author: null
 ---
 
-Welcome to my site.
+Hi! My name is Sam Lawson and I am a senior residing in Memphis, Tennessee. My interests are programming, politics, history, political theory, and theology. 
